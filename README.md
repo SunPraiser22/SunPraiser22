@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, movies, TV shows, and a lot of other media
 - 🌱 I’m currently learning game design and development at RIT
 - 💞️ I’m looking to collaborate on game development projects in the future
-- 📫 Reach me at my email of sfc5936@rit.edu
+- 📫 Reach me at my email of sfc5936@rit.edu or Linkedin http://linkedin.com/in/sebastianchillemi
 
 Projects I have made contributions to:
 
