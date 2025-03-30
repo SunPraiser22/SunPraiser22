@@ -5,6 +5,7 @@
 - 📫 Reach me at my email of sfc5936@rit.edu or Linkedin http://linkedin.com/in/sebastianchillemi
 
 Projects I have made contributions to:
+
 https://www.changelingvr.com
 
 https://github.com/JohnDerstine/SortAndSmite
