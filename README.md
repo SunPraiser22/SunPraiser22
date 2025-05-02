@@ -8,7 +8,7 @@ Projects I have made contributions to:
 
 https://www.changelingvr.com
 
-https://github.com/JohnDerstine/SortAndSmite
+https://puhoylu.itch.io/sort-and-smite
 
 https://github.com/WhiteKnuckleRide/gdaps2_2215_team-G-
 
