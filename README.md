@@ -10,8 +10,6 @@ https://www.changelingvr.com
 
 https://puhoylu.itch.io/sort-and-smite
 
-https://github.com/WhiteKnuckleRide/gdaps2_2215_team-G-
-
 https://github.com/Gavin64DD/Ship/tree/main/ShipGame
 <!---
 SunPraiser22/SunPraiser22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
